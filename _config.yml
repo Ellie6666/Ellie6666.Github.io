@@ -10,7 +10,7 @@ collections:
     title: Deep Work Conclusion
     default_open: false
     output: true
-  news:
+  plans:
     title: Every Week Plan
     defult_open: false
     output: true
@@ -31,7 +31,7 @@ defaults:
       title: Deep Work Conclusion
       permalink: /news/:title
   - scope:
-      type: news
+      type: plans
     values:
       title: Every Week Plan
       permalink: /news/:title
