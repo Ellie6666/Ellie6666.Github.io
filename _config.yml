@@ -10,10 +10,12 @@ collections:
     title: Every Week Plan
     defult_open: false
     output: true
+    
   news:
     title: Deep Work Conclusion
-    default_open: true
+    default_open: False
     output: true
+ 
   posts:
     title: Deep Learning
     default_open: true
