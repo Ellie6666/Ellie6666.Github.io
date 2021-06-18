@@ -8,7 +8,7 @@ tags:
 | Morning | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |---|---|---|---|---|---|---|---|
 | **7:00 - 9:00** | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast |
-| **9:00 - 11:30** | **None** | **None** | **None** | **None** | <font color=#FF0000 >**LA(The first assignment of the sixth chapter)**</font> | **LA (The second assignment of the sixth chapter)** | do something I like |
+| **9:00 - 11:30** | **None** | **None** | **None** | **None** | <font color=red >**LA(The first assignment of the sixth chapter)**<\font> | **LA (The second assignment of the sixth chapter)** | do something I like |
 | **Afternoon** |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
 | **11:30 - 14:00** | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep |
