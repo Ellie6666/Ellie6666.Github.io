@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample Post
+title: Deep Work Conclusion
 tags: 
 - text
 ---
