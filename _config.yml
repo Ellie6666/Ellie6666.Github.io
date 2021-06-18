@@ -34,7 +34,7 @@ defaults:
       type: Deep Work
     values:
       title: Deep Work Conclusion
-      permalink: /post/:title
+      permalink: /Deep Work/:title
       
 plugins:
   - jekyll-sitemap
