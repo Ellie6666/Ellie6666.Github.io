@@ -6,13 +6,13 @@ markdown: kramdown
 highlighter: rouge
 javascript_enabled: true
 collections:
-  news:
-    title: Deep Work Conclusion
-    default_open: false
-    output: true
   plans:
     title: Every Week Plan
     defult_open: true
+    output: true
+  news:
+    title: Deep Work Conclusion
+    default_open: false
     output: true
   posts:
     title: Deep Learning
