@@ -14,7 +14,7 @@ collections:
     title: Deep Learning
     default_open: true
     output: true
-  news:
+  works:
     title: Deep Work Conclusion
     default_open: true
     output: true
@@ -31,10 +31,10 @@ defaults:
       title: Deep Learning
       permalink: /post/:title
   - scope:
-      type: news
+      type: works
     values:
       title: Deep Work Conclusion
-      permalink: /news/:title
+      permalink: /works/:title
       
 plugins:
   - jekyll-sitemap
