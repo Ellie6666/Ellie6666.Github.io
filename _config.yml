@@ -21,6 +21,11 @@ collections:
 
 defaults:
   - scope:
+      type: plans
+    values:
+      title: Every Week Plan
+      permalink: /plans/:title
+  - scope:
       type: posts
     values:
       title: Deep Learning
@@ -30,11 +35,6 @@ defaults:
     values:
       title: Deep Work Conclusion
       permalink: /news/:title
-  - scope:
-      type: plans
-    values:
-      title: Every Week Plan
-      permalink: /plans/:title
 
 plugins:
   - jekyll-sitemap
