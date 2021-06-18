@@ -14,7 +14,11 @@ collections:
     title: Deep Learning
     default_open: true
     output: true
-
+  Deep Work:
+    title: Deep Work Conclusion
+    default_open: true
+    output: true
+    
 defaults:
   - scope:
       type: plans
@@ -25,6 +29,11 @@ defaults:
       type: posts
     values:
       title: Deep Learning
+      permalink: /post/:title
+  - scope:
+      type: Deep Work
+    values:
+      title: Deep Work Conclusion
       permalink: /post/:title
       
 plugins:
