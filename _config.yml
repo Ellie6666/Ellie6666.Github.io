@@ -12,7 +12,7 @@ collections:
     output: true
   plans:
     title: Every Week Plan
-    defult_open: false
+    defult_open: true
     output: true
   posts:
     title: Deep Learning
@@ -34,7 +34,7 @@ defaults:
       type: plans
     values:
       title: Every Week Plan
-      permalink: /news/:title
+      permalink: /plans/:title
 
 plugins:
   - jekyll-sitemap
