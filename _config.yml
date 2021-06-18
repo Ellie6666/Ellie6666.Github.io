@@ -8,11 +8,11 @@ javascript_enabled: true
 collections:
   plans:
     title: Every Week Plan
-    defult_open: true
+    defult_open: false
     output: true
   news:
     title: Deep Work Conclusion
-    default_open: false
+    default_open: true
     output: true
   posts:
     title: Deep Learning
