@@ -13,6 +13,6 @@ tags:
 |---|---|---|---|---|---|---|---|
 | **11:30 - 14:00** | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep |
 | **14:00 - 14:30** | reading | reading | reading | reading | reading | reading | reading |
-| **14:30 - 17:30** | **DL (the assignment of week 3 in the first class)** | **DL (the assignment of week 2 in the first class)** | **DS (the upper half content of module 5 and related problems)** | **DL (the assignmentof week 4 in the first class)** | **<font color=red > DS (the all videos and problems of the module 5)** | do something I like | do something I like |
+| **14:30 - 17:30** | **DL (the assignment of week 3 in the first class)** | **DL (the assignment of week 2 in the first class)** | **DS (the upper half content of module 5 and related problems)** | **DL (the assignmentof week 4 in the first class)** | **DS (the all videos and problems of the module 5)** | do something I like | do something I like |
 | **17:30 - 20:00** | workout dinner walking | workout dinner walking  | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking |
 | **20:00 - 21:00** | psychology class | psychology class | psychology class | psychology class | psychology class | psychology class | psychology class |
