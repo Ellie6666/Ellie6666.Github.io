@@ -8,7 +8,7 @@ tags:
 | Morning | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |---|---|---|---|---|---|---|---|
 | 7:00 - 9:00  | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast |
-| 9:00 - 11:30 | **LA (the some conclusion of fouth slides in the sixth chapter)** | <font color=red > LA (the conclusion of fouth-fifth slides in the sixth chapter) | <font color=red > DL (the assignment 1st of week 1 in the second class) | <font color=red > DL (the assignment 2nd of week 1 in the second class) | <font color=red > DL (the assignment 3rd of week 1 in the second class) | do something I like | do something I like |
+| 9:00 - 11:30 | **LA (the some conclusion of fouth slides in the sixth chapter)** | <font color=red > LA (the conclusion of fourth-fifth slides in the sixth chapter) | <font color=red > DL (the assignment 1st of week 1 in the second class) | <font color=red > DL (the assignment 2nd of week 1 in the second class) | <font color=red > DL (the assignment 3rd of week 1 in the second class) | do something I like | do something I like |
 | Afternoon  |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
 | 11:30 - 14:00  | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep |
