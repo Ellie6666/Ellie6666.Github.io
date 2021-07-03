@@ -5,6 +5,14 @@ tags:
 - text
 ---
 
+<style>
+  p{
+    font-size:16px;
+    line-height:1.5em;
+    text-indent:35px;
+  }
+</style>
+
 [toc]
 # 1.  Meaning
 # 2.  Implementation Guidelines
