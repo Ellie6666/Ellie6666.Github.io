@@ -9,7 +9,7 @@ tags:
   p{
     font-size:16px;
     line-height:1em;
-    text-indent:35px;
+    text-indent:20px;
   }
 </style>
 
