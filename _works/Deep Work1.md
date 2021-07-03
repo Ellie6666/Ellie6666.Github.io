@@ -5,7 +5,6 @@ tags:
 - text
 ---
 
-
 [toc]
 **Directory**
 #1.  Meaning
