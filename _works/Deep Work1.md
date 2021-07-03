@@ -11,11 +11,6 @@ tags:
 ## 2.1  Guideline 1st: In-depth work
 ### 2.1.1  Working Pattern
 ### 2.1.2  Requirements
-#### 2.1.2.1  Habits
-#### 2.1.2.2  Large investments
-#### 2.1.2.3  Don’t work alone
-#### 2.1.2.4  4DX
-#### 2.1.2.5  Rest
 ## 2.2  Embracing Boredom 
 ### 2.2.1  Keep Focusing
 ### 2.2.2	Working like Roosevelt
