@@ -8,7 +8,7 @@ tags:
 <style>
   p{
     font-size:16px;
-    line-height:1.5em;
+    line-height:1em;
     text-indent:35px;
   }
 </style>
