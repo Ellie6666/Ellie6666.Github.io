@@ -16,8 +16,8 @@ tags:
 [toc]
 # 1.  Meaning
 # 2.  Implementation Guidelines
-## 2.1  Guideline 1st: In-depth work
-### 2.1.1  Working Pattern
+## 2.1  Guideline 1st: In-depth work \
+### 2.1.1  Working Pattern \
 ### 2.1.2  Requirements
 ## 2.2  Embracing Boredom
 ### 2.2.1  Keep Focusing
