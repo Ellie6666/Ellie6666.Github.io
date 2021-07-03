@@ -6,7 +6,6 @@ tags:
 ---
 
 [toc]
-**Directory**
 #1.  Meaning
 #2.  Implementation Guidelines
 ##2.1  Guideline 1st: In-depth work
