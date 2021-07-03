@@ -13,7 +13,6 @@ tags:
   }
 </style>
 
-[toc]
 # 1.  Meaning
 # 2.  Implementation Guidelines
 
