@@ -12,6 +12,6 @@ tags:
 | Afternoon  |   |   |   |   |   |   |   |
 | 11:30 - 14:00  | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep |
 | 14:00 - 14:30  | rest | rest | rest | rest | rest | rest | rest |
-| 14:30 - 17:30  | **DL (all videos and assignment of week 1 in the third class)** | <font color=red > LA (7.1.4 - 7.1.5) (7.2.1) | <font color=red > DS (the assignment of the 4th module) | <font color=red > DLP (the code and exercise of the first three of lecture03) | <font color=red > DAE (1.7 - 2.2) | do something I like | do something I like |
+| 14:30 - 17:30  | **DL (all videos and assignment of week 1 in the third class)** | **LA (7.1.4 - 7.2.1)** | <font color=red > DS (the assignment of the 4th module) | <font color=red > DLP (the code and exercise of the first three of lecture03) | <font color=red > DAE (1.7 - 2.2) | do something I like | do something I like |
 | 17:30 - 20:00  | workout dinner walking | workout dinner walking  | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking |
 | 20:00 - 21:00  | reading | reading | reading | reading | reading | reading | reading |
