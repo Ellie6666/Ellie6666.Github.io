@@ -13,6 +13,6 @@ tags:
 |---|---|---|---|---|---|---|---|
 | 11:30 - 14:00  | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep |
 | 14:00 - 14:30  | rest | rest | rest | rest | rest | rest | rest |
-| 14:30 - 17:30  | <font color=red >DL (the remaining videos and 1st code of week 1 in the 4th class) | <font color=red > LA (the second code of 7th chapter) | <font color=red > DS (the assignment of the 6th module) | **DLP (all codes and assignments of lecture03)** | <font color=red > DAE (1.7 - 2.2) | do something I like | do something I like |
+| 14:30 - 17:30  | <font color=red >DL (the remaining videos and 1st code of week 1 in the 4th class) | <font color=red > LA (the second code of 7th chapter) | <font color=red > DS (the assignment of the 6th module) | **DLP (all codes and assignments of lecture03)** | **DAE (30)** | do something I like | do something I like |
 | 17:30 - 20:00  | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking |
 | 20:00 - 21:00  | Reading | Reading | Reading | Reading | Reading | Reading | Reading |
