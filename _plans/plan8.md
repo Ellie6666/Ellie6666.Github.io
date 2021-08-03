@@ -8,7 +8,7 @@ tags:
 | Morning | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |---|---|---|---|---|---|---|---|
 | 7:00 - 9:00  | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast |
-| 9:00 - 11:30 | <font color=red >LA (tutorials and 1st code of 7th chapter)| <font color=red > DS (the all videos of the 6th module) | <font color=red > DL (all videos of week 2 in the 4th class) | **DAE (21)** | <font color=red > DLP (the codes and assignments of lab04 and lab05 ) | do something I like | do something I like |
+| 9:00 - 11:30 | <font color=red >LA (tutorials and 1st code of 7th chapter)| <font color=red > DS (the all videos of the 6th module) | <font color=red > DL (all videos of week 2 in the 4th class) | **DAE (21)** | **DLP (the all codes and all assignments of lab04 and lab05)** | do something I like | do something I like |
 | Afternoon  |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
 | 11:30 - 14:00  | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep |
