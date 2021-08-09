@@ -13,6 +13,6 @@ tags:
 |---|---|---|---|---|---|---|---|
 | 11:30 - 14:00  | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep |
 | 14:00 - 14:30  | rest | rest | rest | rest | rest | rest | rest |
-| 14:30 - 17:30  | <font color=red >DL (the remaining videos of week 2 in the 4th class) | <font color=red> LA (the tutorial and lab quiz of 6th chapter) | <font color=red > DL (notes of week 2 in the 2nd class) | <font color=red > DLP (the code and exercise of lab06) | <font color=red > DAE (51) | do something I like | do something I like |
+| 14:30 - 17:30  | **DL (the remaining videos of week 2 in the 4th class)**| <font color=red> LA (the tutorial and lab quiz of 6th chapter) | <font color=red > DL (notes of week 2 in the 2nd class) | <font color=red > DLP (the code and exercise of lab06) | <font color=red > DAE (51) | do something I like | do something I like |
 | 17:30 - 20:00  | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking |
 | 20:00 - 21:00  | Reading | Reading | Reading | Reading | Reading | Reading | Reading |
