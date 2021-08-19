@@ -8,11 +8,11 @@ tags:
 | Morning | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 |---|---|---|---|---|---|---|---|
 | 7:00 - 9:00  | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast | get up workout breakfast |
-| 9:00 - 11:30 | **LA (relationship graph of 6th chapter and 7th chapter / the first two slides of 8th chapter)**| **LA (the first two slides of 8th chapter / two slides of 8th chapter)** | <font color=red> LA (two slides of 8th chapter / two slides of 8th chapter) | <font color=red > DAE (41) | <font color=red > DLP (the remaining all things of the class ) | do something I like | do something I like |
+| 9:00 - 11:30 | **LA (relationship graph of 6th chapter and 7th chapter / the first two slides of 8th chapter)**| **LA (the first two slides of 8th chapter / two slides of 8th chapter)** |**LA (haif an slides of 8th chapter** / two slides of 8th chapter) | <font color=red > DAE (41) | <font color=red > DLP (the remaining all things of the class ) | do something I like | do something I like |
 | Afternoon  |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|
 | 11:30 - 14:00  | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep | lunch sleep |
 | 14:00 - 14:30  | rest | rest | rest | rest | rest | rest | rest |
-| 14:30 - 17:30  | **DL (the all videos of week 4 in the 4th class)** | **DL (the assignment of week 4 of 4th class / some videos of week 1 of 5th class)** | <font color=red > DL (some videos of week 1 of 5th class / the assignment of week 1 of 5th class) | <font color=red > DLP (all things of lecture_lab10-12) | <font color=red > DAE (51) | do something I like | do something I like |
+| 14:30 - 17:30  | **DL (the all videos of week 4 in the 4th class)** | **DL (the assignment of week 4 of 4th class / some videos of week 1 of 5th class)** | **DL (some videos of week 1 of 5th class** / the assignment of week 1 of 5th class) | <font color=red > DLP (all things of lecture_lab10-12) | <font color=red > DAE (51) | do something I like | do something I like |
 | 17:30 - 20:00  | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking | workout dinner walking |
 | 20:00 - 21:00  | Reading | Reading | Reading | Reading | Reading | Reading | do something I like |
